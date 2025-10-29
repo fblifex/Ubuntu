@@ -13,7 +13,7 @@
 1. Ubuntu 20.04(Ubuntu Proを有効にした状態)
 2. Desktop版を推奨。Server版からデスクトップを構築した環境でも動作確認済
 3. lxdeを推奨。Gnomeでも動作確認済です
-4. $HOME/scripts/fuzebasic($ mkdir -p $HOME/scripts/fuzebasic)
+4. フォルダ構成は、$HOME/scripts/fuzebasic($ mkdir -p $HOME/scripts/fuzebasic)です
 5. wheel(sudo)権限が必要です
 6. $ sudo apt -U upgrade
 7. インストーラによって、$HOME/Desktop/fuze-basicが作成されます(FUZE社の元々の仕様)
