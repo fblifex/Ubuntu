@@ -1,6 +1,6 @@
 # ubuntu
-FUZE BASICの「インストーラ」「アンインストーラ」です。対象は、Ubuntu Proを有効にしたUbuntu 20.04です。
-FUZE BASIC installer and uninstaller scripts for Ubuntu 20.04 with Ubuntu Pro.
+1.FUZE BASICの「インストーラ」「アンインストーラ」です。対象は、Ubuntu Proを有効にしたUbuntu 20.04です。
+1.(English) FUZE BASIC installer and uninstaller scripts for Ubuntu 20.04 with Ubuntu Pro.
 
 ##  大前提
 1. FUZE社の知的財産権に係る部分に触れるコード/ノウハウなどは、一切、開示しません
